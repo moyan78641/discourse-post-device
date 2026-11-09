@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    post_device_enabled: "Show an icon next to each post's date with the kind of device it was written on (phone, tablet or computer) and the device or browser name in its tooltip."

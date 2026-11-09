@@ -1,0 +1,11 @@
+zh_CN:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          discourse_post_device: "发帖设备"
+  js:
+    discourse_post_device:
+      posted: "发布自 %{device}"
+      replied: "回复自 %{device}"
+      app: "%{device}（Sparkloc 客户端）"

@@ -1,0 +1,11 @@
+en:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          discourse_post_device: "Post device"
+  js:
+    discourse_post_device:
+      posted: "Posted from %{device}"
+      replied: "Replied from %{device}"
+      app: "%{device} (Sparkloc app)"
